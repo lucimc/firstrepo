@@ -1,4 +1,5 @@
 //ez egy megjegyzés
+// ez a második megjegyzés
 
 const calculator = require (./calculator.js);
 console.log('Hello World!');
