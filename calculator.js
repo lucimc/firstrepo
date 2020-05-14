@@ -1,5 +1,5 @@
 //ez itt egy komment sor
-
+//még egy példa
 const sum = (a, b) => {
  return a + b;
 }
