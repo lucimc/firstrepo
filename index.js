@@ -1,3 +1,5 @@
+//ez egy megjegyzés
+
 const calculator = require (./calculator.js);
 console.log('Hello World!');
 
